@@ -44,7 +44,8 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
-![Screenshot 2023-12-26 151748](https://github.com/23004205/Univariate-Linear-Regression/assets/138971114/7a3d7e0a-9b37-485a-bd2a-3794acf27b6a)
+![Screenshot 2023-12-27 151445](https://github.com/23004205/Univariate-Linear-Regression/assets/138971114/9d6f23e5-4cf4-4d51-b92f-0abdda08af5f)
+
 ![Screenshot 2023-12-26 151813](https://github.com/23004205/Univariate-Linear-Regression/assets/138971114/b9392a7e-a69d-4929-bd7a-365272daa922)
 ![Screenshot 2023-12-26 151828](https://github.com/23004205/Univariate-Linear-Regression/assets/138971114/dac4465f-beaf-4135-a6ce-3cd4972dc6c6)
 
